@@ -1,0 +1,36 @@
+name: dnn_authentication
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dnn_core:
+    path: ../dnn_core/
+  dnn_shared:
+    path: ../dnn_shared/
+  dnn_pages:
+    path: ../dnn_pages/
+  dnn_setup:
+    path: ../dnn_setup/
+  dnn_dependencies:
+    path: ../dnn_dependencies/
+
+  get: ^4.6.6
+  package_info_plus: ^4.2.0
+  flutter_svg: ^2.0.9
+  google_sign_in: ^6.1.6
+  sign_in_with_apple: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

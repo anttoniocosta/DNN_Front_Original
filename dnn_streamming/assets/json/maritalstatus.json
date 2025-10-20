@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "text": "CASADO"
+    },
+    {
+        "id": 2,
+        "text": "SOLTEIRO"
+    },
+    {
+        "id": 3,
+        "text": "VIUVO"
+    },
+    {
+        "id": 4,
+        "text": "AMASIADO"
+    },
+    {
+        "id": 5,
+        "text": "DIVORCIADO"
+    },
+    {
+        "id": 6,
+        "text": "DESQUITADO"
+    }
+]

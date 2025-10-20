@@ -1,0 +1,37 @@
+name: dnn_core
+description: A new Flutter package project.
+version: 0.0.1
+homepage: DNN Core
+publish_to: none
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  freezed_annotation: ^2.4.1
+  freezed: ^2.4.5
+  cross_file: ^0.3.3+4
+  http_parser: ^4.0.2
+  pointycastle: ^3.7.3
+  flutter_credit_card: ^3.0.7
+  signalr_netcore: ^1.3.6
+  flutter_share: ^2.0.0
+  uuid: ^3.0.7
+
+  dnn_dependencies:
+    path: ../dnn_dependencies/
+  dnn_shared:
+    path: ../dnn_shared/
+  dnn_authentication:
+    path: ../dnn_authentication/
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  build_runner: ^2.3.3
+
+flutter:

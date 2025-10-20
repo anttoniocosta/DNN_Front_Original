@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896500573774",
+    "project_id": "dnnspecialist",
+    "storage_bucket": "dnnspecialist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896500573774:android:2d919eae2be7411e4f451f",
+        "android_client_info": {
+          "package_name": "br.com.dnn.appspecialist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD77UQOzcY_ZimSzWwZantkhHRBp1SzrdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

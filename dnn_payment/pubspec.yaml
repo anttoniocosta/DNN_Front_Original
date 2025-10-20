@@ -1,0 +1,42 @@
+name: dnn_payment
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dnn_core:
+    path: ../dnn_core/
+  dnn_dependencies:
+    path: ../dnn_dependencies/
+  dnn_shared:
+    path: ../dnn_shared/
+  dnn_pages:
+    path: ../dnn_pages/
+  dnn_start_appointment:
+    path: ../dnn_start_appointment/
+  dnn_shopping_cart:
+    path: ../dnn_shopping_cart/
+  dnn_invoices:
+    path: ../dnn_invoices/
+  dnn_campaign:
+    path: ../dnn_campaign/
+
+  flutter_share: ^2.0.0
+  flutter_credit_card: ^3.0.7
+  uuid: ^3.0.7
+  flutter_pdfview: ^1.2.7
+  share_plus: ^7.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

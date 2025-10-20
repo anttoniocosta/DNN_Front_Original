@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629677020603",
+    "project_id": "dnnappcompany",
+    "storage_bucket": "dnnappcompany.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629677020603:android:d3f39e4e08203e3bfee09e",
+        "android_client_info": {
+          "package_name": "br.com.dnn.app_company"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN2ZvfGKsx0GrkoqhOjHF0Qpf2b6lpTK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

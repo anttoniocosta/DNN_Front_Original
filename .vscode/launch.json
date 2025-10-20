@@ -1,0 +1,138 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "dnn_app",
+            "cwd": "dnn_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dnn_app_specialist",
+            "cwd": "dnn_app_specialist",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dnn_app_clinic",
+            "cwd": "dnn_app_clinic",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dnn_app_company",
+            "cwd": "dnn_app_company",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dnn_app_seller",
+            "cwd": "dnn_app_seller",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dnn_app (profile mode)",
+            "cwd": "dnn_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dnn_app (release mode)",
+            "cwd": "dnn_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dnn_app_partner",
+            "cwd": "dnn_app_partner",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dnn_app_partner (profile mode)",
+            "cwd": "dnn_app_partner",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dnn_app_partner (release mode)",
+            "cwd": "dnn_app_partner",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dnn_worker_payment",
+            "cwd": "dnn_worker_payment",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dnn_core",
+            "cwd": "dnn_core",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dnn_core (profile mode)",
+            "cwd": "dnn_core",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dnn_core (release mode)",
+            "cwd": "dnn_core",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dnn_dependencies",
+            "cwd": "dnn_dependencies",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dnn_dependencies (profile mode)",
+            "cwd": "dnn_dependencies",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dnn_dependencies (release mode)",
+            "cwd": "dnn_dependencies",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "dnn_shared",
+            "cwd": "dnn_shared",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "dnn_shared (profile mode)",
+            "cwd": "dnn_shared",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "dnn_shared (release mode)",
+            "cwd": "dnn_shared",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

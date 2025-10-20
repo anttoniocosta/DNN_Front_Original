@@ -1,0 +1,14 @@
+export './change_password/change_password_page.dart';
+export './forgot_password/forget_password_page.dart';
+export './instances/components/current_instance_widget.dart';
+export './instances/components/instance_tile_widget.dart';
+export './instances/components/ripple_animation.dart';
+export './instances/page/instances_page.dart';
+export './phone_validation/otp_validation_page.dart';
+export './registration/register_cnpj_infos_page.dart';
+export './registration/register_cpf_infos_page.dart';
+export './registration/register_types_page.dart';
+export './registration/register_zipcode.dart';
+export './sing_in/sing_in_partial.dart';
+export './sing_in/components/sign_in_image.dart';
+export './sing_in/components/providers_acess.dart';

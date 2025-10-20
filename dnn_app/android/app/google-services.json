@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "239174645502",
+    "project_id": "dnnapp-516ac",
+    "storage_bucket": "dnnapp-516ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239174645502:android:a31e2b207d159166e097af",
+        "android_client_info": {
+          "package_name": "br.com.dnn.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239174645502-hv4l2i5dte1k31ik3u5ud0rmp3loh6bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt9x2Z7Blu-7vLio078v4X_VsIB545ctw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239174645502-hv4l2i5dte1k31ik3u5ud0rmp3loh6bf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239174645502-1l5g5pku965285n9el4tkosd1tepmvac.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dnnApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+export './pages/my_specialist_list_page.dart';
+export './pages/specialist_personal_zipcode_page.dart';
+export './pages/specialist_personal_infos_page.dart';
+export './pages/specialist_select_specialty_page.dart';
+export 'old/specialist_consult_duration_page.dart';
+export 'old/specialist_consult_type.dart';
+export './pages/specialist_consult_price.dart';
+export 'old/specialist_picture_page.dart';
+export './pages/specialist_finish_register.dart';

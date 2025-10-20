@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "rapidocTimeFinish": "23:59:59",
+    "isPlanLoadPartial": false,
+    "rapidocWorkerEnable": true,
+    "efiAccountNumber": "e176d2daacfba1d21a709082a22670be",
+    "mpApplicationId": "7930929986804976",
+    "mpAcessToken": "APP_USR-7930929986804976-061216-1609d1227b66fc855464a470b8e8fd63-1397052999",
+    "mpPublicKey": "APP_USR-217b238e-ae4f-4cf5-bf4e-0b73015929de",
+    "mpNotificationUrl": "https://api.doutornanet.com.br/api/webhook/mp/ipn",
+    "mpTestApplicationId": "7930929986804976",
+    "mpTestAcessToken": "TEST-7930929986804976-061216-82a2d21f79dff1588073c4ff279d2f4f-1397052999",
+    "mpTestPublicKey": "TEST-c712cc47-4f8f-4187-b68d-634c70999433",
+    "mpTestNotificationUrl": "https://api.doutornanet.com.br/api/webhook/mp/ipn",
+    "key": "dcae97c856304feb8683cdf0a7ba29a7",
+    "mpProduction": true,
+    "efiProduction": true
+}

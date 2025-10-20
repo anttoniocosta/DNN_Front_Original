@@ -1,0 +1,39 @@
+{
+    "data": {
+        "clients": [],
+        "directors": [
+            {
+                "teamId": "c507d525-6b66-4355-a3ec-6916baf92444",
+                "sellerId": "53301460-0cfc-4327-822c-3e64b5186438",
+                "roleName": "Diretor",
+                "title": "Time Dev",
+                "isInvite": false,
+                "validationAt": "2023-08-22T10:55:27.077",
+                "needValidation": false
+            }
+        ],
+        "managers": [
+            {
+                "teamId": "c507d525-6b66-4355-a3ec-6916baf92444",
+                "sellerId": "53301460-0cfc-4327-822c-3e64b5186438",
+                "roleName": "Gerente",
+                "title": "Time Dev",
+                "isInvite": false,
+                "validationAt": "2023-08-22T10:55:27.077",
+                "needValidation": false
+            }
+        ],
+        "sellers": [
+            {
+                "teamId": "c507d525-6b66-4355-a3ec-6916baf92444",
+                "sellerId": "53301460-0cfc-4327-822c-3e64b5186438",
+                "roleName": "Vendedor",
+                "title": "Time Dev",
+                "isInvite": false,
+                "validationAt": "2023-08-22T10:55:27.077",
+                "needValidation": false
+            }
+        ],
+        "others": []
+    }
+}

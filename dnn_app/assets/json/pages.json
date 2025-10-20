@@ -1,0 +1,419 @@
+{
+  "updateAt": "2023-11-15T09:50:26.368-03:00",
+  "count": 59,
+  "data": [
+    {
+      "id": 2,
+      "name": "Contratos disponíveis",
+      "tag": "consultAvaiable",
+      "language": "pt-BR",
+      "content": "<p>Voc&ecirc; possui <span style=\"color: #3598db;\">contrato(s)&nbsp;</span></p>"
+    },
+    {
+      "id": 3,
+      "name": "Editar dados",
+      "tag": "editUserData",
+      "language": "pt-BR",
+      "content": "<p>Atualize suas informa&ccedil;&otilde;es na 'Seus dados pessoais' e 'Seu endere&ccedil;o'. <span style=\"color: #3598db;\"><strong>CPF</strong> <strong>n&atilde;o pode ser alterado</strong></span>. Lembre-se de clicar em <span style=\"color: #3598db;\"><strong>'Salvar'</strong></span>.</p>"
+    },
+    {
+      "id": 4,
+      "name": "Configurações",
+      "tag": "userConfigs",
+      "language": "pt-BR",
+      "content": "<p>Aqui voc&ecirc; tem algumas op&ccedil;&otilde;es a sua disposi&ccedil;&atilde;o para configurar sua conta.</p>"
+    },
+    {
+      "id": 5,
+      "name": "Ajudas",
+      "tag": "helpers",
+      "language": "pt-BR",
+      "content": "<p>Se precisar entender ou melhor, <span style=\"color: #3598db;\"><strong>ser ajudado</strong></span>, as op&ccedil;&otilde;es abaixo podem lhe trazer a solu&ccedil;&atilde;o.</p>"
+    },
+    {
+      "id": 6,
+      "name": "Alterar a senha",
+      "tag": "changePassword",
+      "language": "pt-BR",
+      "content": "<p>Lembre-se! Insira um senha forte, da qual seja f&aacute;cil de lembrar e n&atilde;o indicamos entrega-la para ningu&eacute;m. Digite primeiro a sua senha atual, depois a nova senha, confirme-a e logo em seguida poder&aacute; confirmar.</p>"
+    },
+    {
+      "id": 7,
+      "name": "Esqueceu a senha?",
+      "tag": "forgetPassword",
+      "language": "pt-BR",
+      "content": "<p>Por favor, insira seu CPF para recuperar sua senha.</p>"
+    },
+    {
+      "id": 8,
+      "name": "Termos de uso",
+      "tag": "useTerms",
+      "language": "pt-BR",
+      "content": "<p>useTerms</p>"
+    },
+    {
+      "id": 9,
+      "name": "Escolher dependente",
+      "tag": "choiceDependent",
+      "language": "pt-BR",
+      "content": "<p>Para quem ser&aacute; o atendimento? Aqui voc&ecirc; tamb&eacute;m poder&aacute; cadastrar um novo dependente ao seu plano familiar.</p>"
+    },
+    {
+      "id": 10,
+      "name": "Dados pessoais",
+      "tag": "personalInfos",
+      "language": "pt-BR",
+      "content": "<p>Para come&ccedil;ar, insira os dados pessoais solicitados abaixo.</p>"
+    },
+    {
+      "id": 11,
+      "name": "Meu endereço",
+      "tag": "personalLocation",
+      "language": "pt-BR",
+      "content": "<p>Agora, para finalizar, digite os dados do seu endere&ccedil;o.</p>"
+    },
+    {
+      "id": 12,
+      "name": "Pessoal do dependente",
+      "tag": "dependentInfos",
+      "language": "pt-BR",
+      "content": "<p>Para inciar, nos informe os dados do&nbsp; seu dependente.</p>"
+    },
+    {
+      "id": 13,
+      "name": "Endereço do dependente",
+      "tag": "dependentLocation",
+      "language": "pt-BR",
+      "content": "<p>Para finalizar, nos informe o endere&ccedil;o do dependente.</p>"
+    },
+    {
+      "id": 14,
+      "name": "Meus contratos",
+      "tag": "myPlans",
+      "language": "pt-BR",
+      "content": "<p>meus planos</p>"
+    },
+    {
+      "id": 15,
+      "name": "Detalhes do pagamento",
+      "tag": "paymentDetails",
+      "language": "pt-BR",
+      "content": "<p>Veja aqui os detalhes do pagamento e seu status no momento.</p>"
+    },
+    {
+      "id": 16,
+      "name": "Solicitação de reembolso",
+      "tag": "refundContract",
+      "language": "pt-BR",
+      "content": "<p>A solica&ccedil;&atilde;o de reembolso ser&aacute; enviada para analise do nossos atendentes e posteriormente entraram em contato contigo para informar o status da mesma e os procedimentos tomados!</p>"
+    },
+    {
+      "id": 17,
+      "name": "Validação de Telefone",
+      "tag": "otpValidation",
+      "language": "pt-BR",
+      "content": "<p>Voc&ecirc; receber&aacute; em instantes um c&oacute;digo de verifica&ccedil;&atilde;o com 6 n&uacute;meros por um SMS enviado ao n&uacute;mero cadastrado.</p>"
+    },
+    {
+      "id": 18,
+      "name": "Planos",
+      "tag": "planPage",
+      "language": "pt-BR",
+      "content": "<p>Escolha uma forma de contrata&ccedil;&atilde;o mais vantajosa para voc&ecirc;.</p>"
+    },
+    {
+      "id": 19,
+      "name": "Contratos disponíveis",
+      "tag": "consultAvaiable",
+      "language": "pt-BR",
+      "content": "<p>subtitulo</p>"
+    },
+    {
+      "id": 20,
+      "name": "Dados da empresa",
+      "tag": "businessCompanyInfos",
+      "language": "pt-BR",
+      "content": "<p>Para inciar, nos informe os dados da sua empresa.</p>"
+    },
+    {
+      "id": 21,
+      "name": "Endereço da empresa",
+      "tag": "businessCompanyLocation",
+      "language": "pt-BR",
+      "content": "<p>Para finalizar, nos informe o endere&ccedil;o da empresa.</p>"
+    },
+    {
+      "id": 22,
+      "name": "Dados do dependente do associado",
+      "tag": "businessDependentInfos",
+      "language": "pt-BR",
+      "content": "<p>Para inciar, nos informe os dados do dependente do seu colaborador.</p>"
+    },
+    {
+      "id": 23,
+      "name": "Endereço do dependente do associado",
+      "tag": "businessDependentLocation",
+      "language": "pt-BR",
+      "content": "<p>Para finalizar, nos informe o endere&ccedil;o do dependente do seucolaborador.</p>"
+    },
+    {
+      "id": 24,
+      "name": "Dados do associado",
+      "tag": "businessEmployeeInfos",
+      "language": "pt-BR",
+      "content": "<p>Para inciar, nos informe os dados do&nbsp; seu colaborador.</p>"
+    },
+    {
+      "id": 25,
+      "name": "Endereço do associado",
+      "tag": "businessEmployeeLocation",
+      "language": "pt-BR",
+      "content": "<p>Para finalizar, nos informe o endere&ccedil;o do colaborador.</p>"
+    },
+    {
+      "id": 26,
+      "name": "Comissões mensais",
+      "tag": "partnerComissionMonth",
+      "language": "pt-BR",
+      "content": "<p>aaaaa</p>"
+    },
+    {
+      "id": 27,
+      "name": "Comissões gerais",
+      "tag": "partnerComissions",
+      "language": "pt-BR",
+      "content": "<p>Aqui est&aacute; o seu balan&ccedil;o geral das comiss&otilde;es.</p>"
+    },
+    {
+      "id": 28,
+      "name": "Documentos pendentes",
+      "tag": "partnerDocuments",
+      "language": "pt-BR",
+      "content": "<p>Ol&aacute; parceiro, antes de inicar sua jornada com a Doutor na Net ser&aacute; necess&aacute;rio o envio de alguns documentos para validarmos. A seguir est&aacute; a lista do que precisa ser eviado e seu status atual.</p>"
+    },
+    {
+      "id": 29,
+      "name": "Criar novo time",
+      "tag": "partnerNewTeam",
+      "language": "pt-BR",
+      "content": "<p>Digite um nome para este novo time de vendas, voc&ecirc; ser&aacute; diretor dele e assim podendo convidar novos diretores, gerentes e vendedores.</p>"
+    },
+    {
+      "id": 30,
+      "name": "Endereço do parceiro",
+      "tag": "partnerRegisterAddress",
+      "language": "pt-BR",
+      "content": "<p>Agora, digite os dados do seu endere&ccedil;o.</p>"
+    },
+    {
+      "id": 31,
+      "name": "Dados do parceiro",
+      "tag": "partnerRegisterInfos",
+      "language": "pt-BR",
+      "content": "<p>Para iniciar, solicitamos alguns dados pessoais para criar sua conta.</p>"
+    },
+    {
+      "id": 32,
+      "name": "Senha do parceiro",
+      "tag": "partnerRegisterPassword",
+      "language": "pt-BR",
+      "content": "<p>Insira um senha forte que ir&aacute; utilizar para acessar o aplicativo.</p>"
+    },
+    {
+      "id": 33,
+      "name": "Time do parceiro",
+      "tag": "partnerRegisterTeamName",
+      "language": "pt-BR",
+      "content": "<p>E agora, para finalizar, nos informe o nome do seu time que ir&aacute; o representar&aacute;!</p>"
+    },
+    {
+      "id": 34,
+      "name": "Vendas completas",
+      "tag": "partnerSalesCompleted",
+      "language": "pt-BR",
+      "content": "<p>aaaaaa</p>"
+    },
+    {
+      "id": 35,
+      "name": "Vendas pendentes",
+      "tag": "partnerSalesUncompleted",
+      "language": "pt-BR",
+      "content": "<p>aaaaaa</p>"
+    },
+    {
+      "id": 36,
+      "name": "Convite de diretor",
+      "tag": "partnerInviteDirector",
+      "language": "pt-BR",
+      "content": "<p>Digite o e-mail para enviar o convite ao novo Diretor.</p>"
+    },
+    {
+      "id": 37,
+      "name": "Convite de gerente",
+      "tag": "partnerInviteManager",
+      "language": "pt-BR",
+      "content": "<p>Digite o e-mail para enviar o convite ao novo Gerente.</p>"
+    },
+    {
+      "id": 38,
+      "name": "Convite de vendedor",
+      "tag": "partnerInviteSeller",
+      "language": "pt-BR",
+      "content": "<p>Digite o e-mail para enviar o convite ao novo Vendedor.</p>"
+    },
+    {
+      "id": 39,
+      "name": "Trocar nome da equipe",
+      "tag": "partnerChangeName",
+      "language": "pt-BR",
+      "content": "<p>Digite o novo nome do seu time.</p>"
+    },
+    {
+      "id": 40,
+      "name": "Configurações do time",
+      "tag": "partnerTeamConfigs",
+      "language": "pt-BR",
+      "content": "<p>Aqui os diretores e gerentes possuem a poder de fazer convites ao time para novos integrantes.</p>"
+    },
+    {
+      "id": 41,
+      "name": "Meu time",
+      "tag": "partnerMyTeam",
+      "language": "pt-BR",
+      "content": "<p>aaaaaaaaaaa</p>"
+    },
+    {
+      "id": 42,
+      "name": "Menu de perfis",
+      "tag": "partnerSigninProfiles",
+      "language": "pt-BR",
+      "content": "<p>Voc&ecirc; possui um ou mais perfis dispon&iacute;veis, deseja continuar como?</p>"
+    },
+    {
+      "id": 43,
+      "name": "Atendimento",
+      "tag": "partnerAgreeCall",
+      "language": "pt-BR",
+      "content": "<p>Aceitar iniciar chamada pelo app parceiro.</p>"
+    },
+    {
+      "id": 44,
+      "name": "Pagamento",
+      "tag": "paymentGatewayChoice",
+      "language": "pt-BR",
+      "content": "<span style=\"font-size: 15px;font-weight:700;\">Selecione o método de pagamento</span><br><span style=\"font-size: 19px;font-weight:400;\">Clique na melhor opção para você.</span>"
+    },
+    {
+      "id": 45,
+      "name": "Como deseja renovar?",
+      "tag": "renewalGatewayChoice",
+      "language": "pt-BR",
+      "content": "<p>Escolha um dos m&eacute;todos dispon&iacute;veis para prosseguir com o seu pedido de renova&ccedil;&atilde;o.</p>"
+    },
+    {
+      "id": 46,
+      "name": "Confirmar escolha",
+      "tag": "gatewayConfirm",
+      "language": "pt-BR",
+      "content": "<p>Antes de prosseguir, verifique o plano escolhido, veja os detalhes dele, valor e assim continuar!</p>"
+    },
+    {
+      "id": 47,
+      "name": "Resumo do boleto",
+      "tag": "resumeBillet",
+      "language": "pt-BR",
+      "content": "<p>Ap&oacute;s o pagamento e confirma&ccedil;&atilde;o, o atendimento estar&aacute; liberado na sua aba de planos!</p>"
+    },
+    {
+      "id": 48,
+      "name": "Pagamento via Pix",
+      "tag": "resumePix",
+      "language": "pt-BR",
+      "content": "<span style=\"font-size: 15px;font-weight:700;\">Confirme as informações</span><br><span style=\"font-size: 19px;\">Finalize o pagamento</span>"
+    },
+    {
+      "id": 49,
+      "name": "Resumo do cartão de crédito",
+      "tag": "resumeCreditCard",
+      "language": "pt-BR",
+      "content": "<p>Antes de prosseguir, revise detalhadamente o plano escolhido, os dados do seu cart&atilde;o, o parcelamento e o seu endere&ccedil;o.</p>"
+    },
+    {
+      "id": 50,
+      "name": "Informações do cartão",
+      "tag": "creditCardInfos",
+      "language": "pt-BR",
+      "content": "<p>Adicione os dados do seu cart&atilde;o de cr&eacute;dito para prosseguir com a sua compra.</p>"
+    },
+    {
+      "id": 51,
+      "name": "Endereço para fatura",
+      "tag": "addressForPayment",
+      "language": "pt-BR",
+      "content": "<p>Insira os dados do endere&ccedil;o que deseja receber a sua fatura.</p>"
+    },
+    {
+      "id": 52,
+      "name": "Escolher endereço para fatura",
+      "tag": "choiceAddressForPayment",
+      "language": "pt-BR",
+      "content": "<p>Escolha um endere&ccedil;o para enviarmos a sua fatura.</p>"
+    },
+    {
+      "id": 53,
+      "name": "Parcelas",
+      "tag": "creditCardInstallments",
+      "language": "pt-BR",
+      "content": "<p>Escolha uma das op&ccedil;&otilde;es de parcelamento a seguir para prosseguir com a sua compra.</p>"
+    },
+    {
+      "id": 54,
+      "name": "Lista de cartões",
+      "tag": "creditCardMyCards",
+      "language": "pt-BR",
+      "content": "<p>Escolha um dos seus cart&otilde;es cadastrados ou insira um novo.</p>"
+    },
+    {
+      "id": 55,
+      "name": "Inserir CVV do cartão",
+      "tag": "creditCardCVV",
+      "language": "pt-BR",
+      "content": "<p>Digite o CCV do cart&atilde;o escolhido para prosseguir com a sua compra.</p>"
+    },
+    {
+      "id": 56,
+      "name": "Política de Privacidade",
+      "tag": "privacy_policy",
+      "language": "pt-BR",
+      "content": "<h3 style=\"text-align: center;\"><span style=\"color: #3598db;\"><strong>POL&Iacute;TICA DE PRIVACIDADE E DE PROTE&Ccedil;&Atilde;O DE DADOS PESSOAIS</strong></span> <br /><!-- [if !supportLineBreakNewLine]--><br /><!--[endif]--></h3>\r\n<p style=\"text-align: justify;\"><strong><span style=\"color: #3598db;\">1. Introdu&ccedil;&atilde;o</span></strong></p>\r\n<p style=\"text-align: justify;\"><br /><!-- [if !supportLineBreakNewLine]--><!--[endif]-->A <span style=\"color: #3598db;\"><strong>DOUTOR NA NET</strong></span>, empresa inscrita no CNPJ sob o n&deg;. 47.873.121/0001-01, est&aacute; comprometida com a prote&ccedil;&atilde;o da privacidade de todos os usu&aacute;rios de seus servi&ccedil;os no contexto da utiliza&ccedil;&atilde;o de suas ferramentas, seja um cliente, empregado, colaborador, prestador de servi&ccedil;o ou visitante de nosso site (www.doutornanet.com.br), aplicativo m&oacute;vel, servi&ccedil;os, APIs pr&oacute;pria e de terceiros (a seguir designados como &ldquo;Plataforma&rdquo;), raz&atilde;o pela qual disponibiliza a presente Pol&iacute;tica de Privacidade (&ldquo;Pol&iacute;tica&rdquo;).</p>\r\n<p style=\"text-align: justify;\">Se voc&ecirc; deseja usar a nossa Plataforma, leia esta Pol&iacute;tica de Privacidade e de Prote&ccedil;&atilde;o de Dados Pessoais e os Termos de Uso, e saiba que voc&ecirc; s&oacute; poder&aacute; usar nossa Plataforma e servi&ccedil;os se estiver de acordo com as respectivas condi&ccedil;&otilde;es, de modo que, ao usar, concorda com o inteiro teor destes documentos. Igualmente, se voc&ecirc; &eacute; nosso empregado, colaborador, prestador de servi&ccedil;o ou mant&eacute;m qualquer outro tipo de rela&ccedil;&atilde;o com a DOUTOR NA NET, saiba que voc&ecirc; s&oacute; poder&aacute; iniciar e manter essa rela&ccedil;&atilde;o se estiver de acordo com esta Pol&iacute;tica de Privacidade e de Prote&ccedil;&atilde;o de Dados Pessoais, nesta e em futuras vers&otilde;es desta, de modo que, ao se relacionar com a DOUTOR NA NET, concorda com o inteiro teor deste documento.<br /><!-- [if !supportLineBreakNewLine]--><br /><!--[endif]--></p>\r\n<p style=\"text-align: justify;\">Pessoas f&iacute;sicas representando pessoas jur&iacute;dicas, quando n&atilde;o forem elas pr&oacute;prias representantes legais das pessoas jur&iacute;dicas pertinentes nos termos dos seus atos constitutivos vigentes, poder&atilde;o ter sua autoriza&ccedil;&atilde;o de acesso &agrave; Plataforma condicionada ao fornecimento de autoriza&ccedil;&otilde;es pelas pessoas jur&iacute;dicas &agrave;s quais estiverem vinculadas.<br /><!-- [if !supportLineBreakNewLine]--><br /><!--[endif]--></p>\r\n<p style=\"text-align: justify;\">A DOUTOR NA NET poder&aacute; estabelecer regras espec&iacute;ficas aplic&aacute;veis a determinado produto, servi&ccedil;o ou parte da Plataforma, conforme o caso, que complementar&atilde;o e prevalecer&atilde;o sobre esta Pol&iacute;tica de Privacidade e de Prote&ccedil;&atilde;o de Dados Pessoais e os Termos de Uso. Em qualquer caso, voc&ecirc; dever&aacute; aceitar os termos e as condi&ccedil;&otilde;es aplic&aacute;veis.<br /><!-- [if !supportLineBreakNewLine]--><br /><!--[endif]--></p>\r\n<p style=\"text-align: justify;\">Esta Pol&iacute;tica foi constru&iacute;da em conformidade com as Leis n. 13.709/2018 (&ldquo;Lei Geral de Prote&ccedil;&atilde;o de Dados&rdquo;) e n&ordm; 12.965/2014 (&ldquo;Marco Civil da Internet&rdquo;) para esclarecer a voc&ecirc; (i) quais dados pessoais, como e para que s&atilde;o tratados; (ii) quais s&atilde;o os seus direitos, nos termos da legisla&ccedil;&atilde;o e das normas aplic&aacute;veis &agrave; prote&ccedil;&atilde;o de dados pessoais e (iii) quais s&atilde;o as nossas obriga&ccedil;&otilde;es, aplicando-se a nossas intera&ccedil;&otilde;es off-line e on-line e a todas as atividades e servi&ccedil;os fornecidos. N&atilde;o abrange, todavia, as pr&aacute;ticas de outras organiza&ccedil;&otilde;es referenciadas por meio de links em nossa Plataforma e para quais&nbsp;pedimos que observe as Pol&iacute;ticas de Privacidade e Termos de Uso de terceiros e de seus respectivos produtos e servi&ccedil;os.</p>\r\n<p style=\"text-align: justify;\">Leia detalhadamente todas as partes de documento, e em caso de d&uacute;vidas entre em contato conosco pelos canais dispon&iacute;veis no nosso site e aplicativos.</p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #3598db;\"><strong>Informa&ccedil;&otilde;es que v&atilde;o ajudar voc&ecirc; na leitura desta pol&iacute;tica:</strong></span></p>\r\n<p style=\"text-align: justify;\">A DOUTOR NA NET tem a miss&atilde;o de ajudar as pessoas por meio da Telemedicina e tamb&eacute;m no atendimento presencial, possibilitando que a medicina de qualidade chegue &agrave;queles que, em virtude de barreiras geogr&aacute;ficas, econ&ocirc;micas, dentre outras, s&atilde;o desprovidos dela, contribuindo com o processo de democratiza&ccedil;&atilde;o do acesso &agrave; sa&uacute;de.</p>\r\n<p style=\"text-align: justify;\">Assim a DOUTOR NA NET lida com informa&ccedil;&otilde;es pessoais em seu dia a dia. Por meio dos seus servi&ccedil;os de Telediagn&oacute;stico, por exemplo, a empresa faz a triagem de exames realizados por Clientes (Cl&iacute;nicas, Hospitais, Ambulat&oacute;rios, entre outros.) em pessoas de todo o Brasil, priorizando os casos mais graves por meio do uso de seus produtos e servi&ccedil;os computacionais e/ou humanos, possibilitando que um m&eacute;dico especialista realize o laudo deste exame, onde o Cliente e ele estiverem, em um curto per&iacute;odo de tempo, o que tem possibilitado diariamente melhorar a sa&uacute;de e salvar vidas.</p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #3598db;\"><strong>Privacidade:</strong></span> &Eacute; um direito regulamentado pela Constitui&ccedil;&atilde;o Federal e por leis espec&iacute;ficas, tais como o Marco Civil da Internet, o C&oacute;digo de Defesa do Consumidor e a Lei Geral de Prote&ccedil;&atilde;o de Dados, trata-se do direito de que as informa&ccedil;&otilde;es que dizem respeito &agrave; sua particularidade sejam protegidas, de acordo com o que &eacute; previsto nesses dispositivos legais.&nbsp;</p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #3598db;\"><strong>Dado pessoal e Dado pessoal sens&iacute;vel:</strong></span> &Eacute; qualquer informa&ccedil;&atilde;o que se refira a uma pessoa natural (n&atilde;o jur&iacute;dica), identificando essa pessoa (a exemplo um n&uacute;mero do CPF, da Identidade, seu nome completo, entre outros) ou tornando-a identific&aacute;vel (outro exemplo o endere&ccedil;o). J&aacute; dado pessoal sens&iacute;vel &eacute; qualquer informa&ccedil;&atilde;o a respeito de uma pessoa natural que reflita aspectos mais &iacute;ntimos dela, tais como informa&ccedil;&otilde;es de origem racial ou &eacute;tnica, convic&ccedil;&atilde;o religiosa, opini&atilde;o pol&iacute;tica, filia&ccedil;&atilde;o a sindicato ou a organiza&ccedil;&atilde;o de car&aacute;ter religioso, filos&oacute;fico ou pol&iacute;tico, dado referente &agrave; sa&uacute;de ou &agrave; vida sexual, dado gen&eacute;tico ou biom&eacute;trico, que possam gerar alguma discrimina&ccedil;&atilde;o em seu tratamento.</p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #3598db;\"><strong>Titular de dados.</strong></span> &Eacute; a pessoa natural a quem os dados descritos acima se referem. O titular de dados &eacute; o propriet&aacute;rio, dono leg&iacute;timo dessas informa&ccedil;&otilde;es. Voc&ecirc; &eacute; o propriet&aacute;rio dos seus dados pessoais e dados pessoais sens&iacute;veis.</p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #3598db;\"><strong>Usu&aacute;rio.</strong></span> &Eacute; o titular de dados que interage com qualquer uma das partes ou o todo da Plataforma.</p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #3598db;\"><strong>Anonimiza&ccedil;&atilde;o:</strong></span> Processo pelo qual, a partir da utiliza&ccedil;&atilde;o de t&eacute;cnicas razo&aacute;veis e dispon&iacute;veis, o(s) dado(s) perde(m) a capacidade de identificar ou tornar identific&aacute;vel uma pessoa e, portanto, deixa(m) de ser dado(s) pessoal(ais).</p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #3598db;\"><strong>Tratamento.</strong></span> &Eacute; toda opera&ccedil;&atilde;o realizada com dados pessoais e dados pessoais sens&iacute;veis, como a coleta, produ&ccedil;&atilde;o, recep&ccedil;&atilde;o, classifica&ccedil;&atilde;o, utiliza&ccedil;&atilde;o, acesso, reprodu&ccedil;&atilde;o, transmiss&atilde;o, distribui&ccedil;&atilde;o, processamento, arquivamento, armazenamento, elimina&ccedil;&atilde;o, avalia&ccedil;&atilde;o ou controle da informa&ccedil;&atilde;o, modifica&ccedil;&atilde;o, comunica&ccedil;&atilde;o, transfer&ecirc;ncia, difus&atilde;o ou extra&ccedil;&atilde;o.</p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #3598db;\"><strong>Coleta e obten&ccedil;&atilde;o de dados:</strong></span> Seus dados podem ser coletados e obtidos quando voc&ecirc; navega, acessa ou utiliza nos produtos e servi&ccedil;os off-line ou on-line e tamb&eacute;m quando realiza transa&ccedil;&otilde;es e opera&ccedil;&otilde;es de qualquer natureza;&nbsp; compartilha informa&ccedil;&otilde;es fundamentais para a execu&ccedil;&atilde;o dos servi&ccedil;os e aprimoramento dos processos; entra em contato com nossos canais de atendimento; ou por meio de parceiros externos e provedores de informa&ccedil;&atilde;o, que nos ajudam a entender dados demogr&aacute;ficos e perfis socioecon&ocirc;micos, complementando os dados coletados por n&oacute;s; redes sociais, desde que concedida por voc&ecirc; a permiss&atilde;o para acessar os dados em uma ou mais redes, bem como fontes p&uacute;blicas oficiais, como banco de dados p&uacute;blicos ou privados.</p>\r\n<p style=\"text-align: justify;\">Os dados pessoais que ser&atilde;o solicitados para que voc&ecirc; tenha acesso integral aos nossos servi&ccedil;os, conforme o caso, podem ser: na hip&oacute;tese de pessoa f&iacute;sica: CPF, data de nascimento e e-mail. Na hip&oacute;tese de pessoa jur&iacute;dica, conforme a finalidade, os documentos necess&aacute;rios ser&atilde;o solicitados.</p>\r\n<p style=\"text-align: justify;\">Tamb&eacute;m solicitaremos que voc&ecirc; envie c&oacute;pia digitalizada de um documento de identidade v&aacute;lido com foto, al&eacute;m de selfie, e, em determinadas situa&ccedil;&otilde;es, v&iacute;deo de confirma&ccedil;&atilde;o, que se caracterizam como dados pessoais sens&iacute;veis essenciais para controle de identifica&ccedil;&atilde;o nos sistemas inform&aacute;ticos e, sem os quais, n&atilde;o conseguiremos prestar os servi&ccedil;os aqui previstos. Essas s&atilde;o as m&iacute;nimas informa&ccedil;&otilde;es necess&aacute;rias para que possamos prestar os seus servi&ccedil;os de forma segura, ou seja, identificando voc&ecirc; adequadamente, podendo ser utilizada biometria facial ou de outro tipo conforme a necessidade.</p>\r\n<p style=\"text-align: justify;\">A utiliza&ccedil;&atilde;o de nossos canais, servi&ccedil;os e funcionalidades poder&aacute; sofrer restri&ccedil;&otilde;es e at&eacute; mesmo ser inviabilizada caso n&atilde;o ocorra o envio desses documentos e informa&ccedil;&otilde;es. Conforme o caso, poder&aacute; ainda ser solicitado outros documentos necess&aacute;rios a voc&ecirc;, com o intuito de garantir o pleno acesso aos servi&ccedil;os da Plataforma, tais como comprovantes de renda e de resid&ecirc;ncia.<br /><!-- [if !supportLineBreakNewLine]--><br /><!--[endif]--></p>\r\n<p style=\"text-align: justify;\">Quando voc&ecirc; realizar seu cadastro, navegar e utilizar em nosso site, aplicativos e/ou qualquer servi&ccedil;o, os seguintes dados e informa&ccedil;&otilde;es podem ser coletados, dentre outros:<br /><!-- [if !supportLineBreakNewLine]--></p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #3598db;\"><strong>Dados de contato:</strong></span> n&uacute;meros de telefone, e-mail, sistemas de mensageria, endere&ccedil;o, com o objetivo de dar maior seguran&ccedil;a aos servi&ccedil;os e fidelidade das informa&ccedil;&otilde;es que voc&ecirc; fornecer;<br /><br /><span style=\"color: #3598db;\"><strong>Credenciais:</strong></span> coletamos hashs criptogr&aacute;ficos de senhas, palavras seguras, PIN de seguran&ccedil;a e informa&ccedil;&otilde;es de seguran&ccedil;a necess&aacute;rias escolhidas por voc&ecirc; para o processo de autentica&ccedil;&atilde;o, acesso a contas e transa&ccedil;&otilde;es, para o adequado controle de acesso a sua conta;<br /><br /><span style=\"color: #3598db;\"><strong>Dados demogr&aacute;ficos:</strong></span> g&ecirc;nero, endere&ccedil;o, escolaridade, renda;<br /><br /><span style=\"color: #3598db;\"><strong>Dados de atendimento:</strong></span> sua intera&ccedil;&atilde;o em nossos canais de atendimento tamb&eacute;m fica registrada, assim como outros detalhes de seu contato, podendo incluir conte&uacute;do de conversas em chat;<br /><br /><span style=\"color: #3598db;\"><strong>Dados de rela&ccedil;&otilde;es:</strong></span> apenas quando concedida inequ&iacute;voca permiss&atilde;o, podemos captar dados de quais s&atilde;o os contatos de sua rede de relacionamento;<br /><br /><span style=\"color: #3598db;\"><strong>Dados de localiza&ccedil;&atilde;o:</strong></span> podemos, por meio de nossa Plataforma, coletar dados de localiza&ccedil;&atilde;o originados de dados de GPS (Sistema de Navega&ccedil;&atilde;o Global), GNSS (Global Navigation Satellite System), de torres de comunica&ccedil;&otilde;es m&oacute;veis, pontos de acesso Wi-fi ou localiza&ccedil;&atilde;o vinda de seu IP.<br /><br /><span style=\"color: #3598db;\"><strong>Dados de dispositivos:</strong></span> podemos coletar informa&ccedil;&otilde;es do seu dispositivo como n&uacute;meros que o identifique.</p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #3598db;\"><strong>Dados de rede:</strong></span> podemos coletar dados da sua rede como IP e dos perif&eacute;ricos de acesso a rede como endere&ccedil;o MAC, por exemplo.</p>\r\n<p style=\"text-align: justify;\">A contrata&ccedil;&atilde;o e uso dos nossos servi&ccedil;os pressup&otilde;e o envio de mensagens eletr&ocirc;nicas (tais como, e-mails, notifica&ccedil;&otilde;es e SMS) de cunho de seguran&ccedil;a, informativo e administrativo, sendo esse envio imprescind&iacute;vel &agrave; execu&ccedil;&atilde;o e ao desenvolvimento de nossa atividade. Caso voc&ecirc; n&atilde;o concorde com este procedimento, &eacute; necess&aacute;rio solicitar o cancelamento de sua conta na DOUTOR NA NET.</p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #3598db;\"><strong> 3. Utiliza&ccedil;&atilde;o de cookies e tecnologias semelhantes</strong></span></p>\r\n<p style=\"text-align: justify;\">Os cookies e tecnologias semelhantes suportam o processo de identifica&ccedil;&atilde;o de cliente, comunica&ccedil;&atilde;o e demais a&ccedil;&otilde;es de marketing, al&eacute;m de possibilitarem a prote&ccedil;&atilde;o dos dados coletados. Eles armazenam informa&ccedil;&otilde;es em navegadores da web, usados em computadores, telefones e outros dispositivos, que trazem a informa&ccedil;&atilde;o sobre seu uso em nossa Plataforma. S&atilde;o &uacute;teis nos processos de autentica&ccedil;&atilde;o, publicidade, recomenda&ccedil;&otilde;es, mensura&ccedil;&otilde;es de audi&ecirc;ncia, recursos e funcionalidades dos canais, an&aacute;lises de seguran&ccedil;a para aperfei&ccedil;oamento e desenvolvimento de ferramentas antifraude.</p>\r\n<p style=\"text-align: justify;\">A DOUTOR NA NET utiliza cookies pr&oacute;prios essenciais para controle, monitoramento e rastreamento de eventuais vulnerabilidades, riscos de incidentes e incidentes de seguran&ccedil;a da informa&ccedil;&atilde;o, para agir de modo preventivo e prover um ambiente seguro para nossos clientes. Tamb&eacute;m utiliza cookies de terceiros para an&aacute;lises estat&iacute;sticas de dados de navega&ccedil;&atilde;o, a fim de avaliar nossa Plataforma e melhorar constantemente nossos servi&ccedil;os e produtos oferecendo experi&ecirc;ncia de uso mais customizada.<br />Os cookies pr&oacute;prios s&atilde;o essenciais para que a DOUTOR NA NET possa garantir um ambiente de navega&ccedil;&atilde;o seguro e possa prestar servi&ccedil;os a voc&ecirc; de forma adequada, n&atilde;o podendo ser desabilitados. Voc&ecirc; pode desabilitar os cookies de terceiros nas op&ccedil;&otilde;es de configura&ccedil;&atilde;o na Plataforma, estando ciente de que as funcionalidades e servi&ccedil;os da DOUTOR NA NET podem n&atilde;o ser fornecidos ou ser fornecidos parcialmente em caso de desabilita&ccedil;&atilde;o. <br /><br /></p>\r\n<p style=\"text-align: justify;\"><span style=\"color: #3598db;\"><strong> 4. Altera&ccedil;&atilde;o na pol&iacute;tica</strong></span></p>\r\n<p style=\"text-align: justify;\">A DOUTOR NA NET se compromete a revisitar essa Pol&iacute;tica de Privacidade e de Prote&ccedil;&atilde;o de Dados Pessoais periodicamente para assegurar sua conformidade com a lei, bem como para ajustar-se &agrave;s orienta&ccedil;&otilde;es da Autoridade Nacional de Prote&ccedil;&atilde;o de Dados (ANPD), podendo, por estas raz&otilde;es, modificar os seus termos a qualquer tempo. Sempre que houver uma mudan&ccedil;a relevante, tal como uma nova finalidade para os dados pessoais j&aacute; informados, voc&ecirc; ser&aacute; notificado por meio das informa&ccedil;&otilde;es de contato disponibilizadas por voc&ecirc; ou por um aviso na Plataforma. Na notifica&ccedil;&atilde;o, voc&ecirc; ter&aacute; acesso ao novo texto da Pol&iacute;tica de Privacidade e de Prote&ccedil;&atilde;o de Dados Pessoais.<br /><br /><span style=\"color: #3598db;\"><strong>5. Contato e dados do DPO</strong></span></p>\r\n<p style=\"text-align: justify;\">Caso tenha alguma d&uacute;vida e/ou precise tratar de qualquer assunto relacionado a esta Pol&iacute;tica de Privacidade e de Prote&ccedil;&atilde;o de Dados Pessoais, por favor, entre em contato conosco no contato@doutornanet.com.br. Se voc&ecirc; &eacute; um cliente nosso, mantenha sempre seus canais de contato atualizados, para podermos contat&aacute;-lo por e-mail, preferencialmente.<br /><br />&Uacute;ltima atualiza&ccedil;&atilde;o: &nbsp; &nbsp;17/07/2023 - 16:05</p>"
+    },
+    {
+      "id": 59,
+      "name": "INICIAR CONSULTA",
+      "tag": "startCallNow",
+      "language": "pt-BR",
+      "content": "<p>Clique aqui para iniciar sua consulta m&eacute;dica!</p>"
+    },
+    {
+      "id": 60,
+      "name": "Iniciar consulta com médico!",
+      "tag": "showCallNow",
+      "language": "pt-BR",
+      "content": "<p>Se voc&ecirc; possui contratos ativos, inicie um atendimento agora.</p>"
+    },
+    {
+      "id": 61,
+      "name": "Quero este plano",
+      "tag": "bt_want_this_plan",
+      "language": "pt-BR",
+      "content": "<p>Quero este plano</p>"
+    },
+    {
+      "id": 62,
+      "name": "Comprar Consulta",
+      "tag": "bt_buy_consultation",
+      "language": "pt-BR",
+      "content": "<p>Comprar Consulta</p>"
+    }
+  ]
+}

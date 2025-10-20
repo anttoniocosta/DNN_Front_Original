@@ -1,0 +1,84 @@
+name: dnn_app_specialist
+description: Medicina na palma da sua mão, para todos, em qualquer lugar e a qualquer momento, tecnologia humanizada criada pensando em você e na sua família.
+
+publish_to: "none" #
+
+version: 1.0.1+10
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dnn_core:
+    path: ../dnn_core/
+  dnn_dependencies:
+    path: ../dnn_dependencies/
+  dnn_shared:
+    path: ../dnn_shared/
+  dnn_authentication:
+    path: ../dnn_authentication/
+  dnn_helpers:
+    path: ../dnn_helpers/
+  dnn_pages:
+    path: ../dnn_pages/
+  dnn_setup:
+    path: ../dnn_setup/
+  dnn_start_appointment:
+    path: ../dnn_start_appointment/
+  dnn_streamming:
+    path: ../dnn_streamming/
+
+  cupertino_icons: ^1.0.5
+  flutter_launcher_icons: ^0.13.1
+  intl:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "../dnn_shared/assets/icons/launcher_app_specialist.png"
+  remove_alpha_ios: true
+  web:
+    generate: true
+    image_path: "../dnn_shared/assets/icons/launcher_app_specialist.png"
+  windows:
+    generate: true
+    image_path: "../dnn_shared/assets/icons/launcher_app_specialist.png"
+    icon_size: 48 # min:48, max:256, default: 48
+  macos:
+    generate: true
+    image_path: "../dnn_shared/assets/icons/launcher_app_specialist.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/json/
+    - assets/fonts/
+
+  fonts:
+    - family: Gilroy
+      fonts:
+        - asset: assets/fonts/gilroy/Gilroy-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/gilroy/Gilroy-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/gilroy/Gilroy-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/gilroy/Gilroy-Light.ttf
+          weight: 300
+
+    - family: Nexa
+      fonts:
+        - asset: assets/fonts/nexa/Nexa-Bold.otf
+          weight: 800
+        - asset: assets/fonts/nexa/Nexa-Regular.otf
+          weight: 400
+        - asset: assets/fonts/nexa/Nexa-Light.otf
+          weight: 300

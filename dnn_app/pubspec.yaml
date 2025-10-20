@@ -1,0 +1,108 @@
+name: dnn_app
+description: Medicina na palma da sua mão, para todos, em qualquer lugar e a qualquer momento, tecnologia humanizada criada pensando em você e na sua família.
+publish_to: "none"
+
+version: 2.0.14+53
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+
+  dnn_core:
+    path: ../dnn_core/
+  dnn_dependencies:
+    path: ../dnn_dependencies/
+  dnn_shared:
+    path: ../dnn_shared/
+  dnn_authentication:
+    path: ../dnn_authentication/
+  dnn_offers:
+    path: ../dnn_offers/
+  dnn_helpers:
+    path: ../dnn_helpers/
+  dnn_pages:
+    path: ../dnn_pages/
+  dnn_setup:
+    path: ../dnn_setup/
+  dnn_use_terms:
+    path: ../dnn_use_terms/
+  dnn_payment:
+    path: ../dnn_payment/
+  dnn_shopping_cart:
+    path: ../dnn_shopping_cart/
+  dnn_campaign:
+    path: ../dnn_campaign/
+  dnn_invoices:
+    path: ../dnn_invoices/
+  dnn_start_appointment:
+    path: ../dnn_start_appointment/
+  dnn_streamming:
+    path: ../dnn_streamming/
+
+  cupertino_icons: ^1.0.5
+  flutter_launcher_icons: ^0.13.1
+  chewie: ^1.7.0
+  intl: ^0.19.0
+  webview_flutter: ^4.4.2
+  flutter_widget_from_html: ^0.10.6
+  clipboard: ^0.1.3
+  flutter_inappwebview: ^5.8.0
+  image_picker: ^1.0.4
+  cached_network_image: 3.3.0
+  url_launcher: ^6.2.1
+  font_awesome_flutter: ^10.6.0
+  maps_launcher: ^2.2.0
+  get: ^4.6.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "../dnn_shared/assets/icons/launcher_azul.png"
+  remove_alpha_ios: true
+  web:
+    generate: true
+    image_path: "../dnn_shared/assets/icons/launcher_azul.png"
+  windows:
+    generate: true
+    image_path: "../dnn_shared/assets/icons/launcher_azul.png"
+    icon_size: 48 # min:48, max:256, default: 48
+  macos:
+    generate: true
+    image_path: "../dnn_shared/assets/icons/launcher_azul.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/json/
+    - assets/fonts/
+
+  fonts:
+    - family: Gilroy
+      fonts:
+        - asset: assets/fonts/gilroy/Gilroy-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/gilroy/Gilroy-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/gilroy/Gilroy-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/gilroy/Gilroy-Light.ttf
+          weight: 300
+
+    - family: Nexa
+      fonts:
+        - asset: assets/fonts/nexa/Nexa-Bold.otf
+          weight: 800
+        - asset: assets/fonts/nexa/Nexa-Regular.otf
+          weight: 400
+        - asset: assets/fonts/nexa/Nexa-Light.otf
+          weight: 300

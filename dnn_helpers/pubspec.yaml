@@ -1,0 +1,33 @@
+name: dnn_helpers
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get: ^4.6.6
+  flutter_svg: ^2.0.9
+  flutter_widget_from_html: ^0.10.6
+  material_design_icons_flutter: ^7.0.7296
+  shimmer: ^3.0.0
+  font_awesome_flutter: ^10.6.0
+
+  dnn_shared:
+    path: ../dnn_shared/
+  dnn_core:
+    path: ../dnn_core/
+  dnn_pages:
+    path: ../dnn_pages/
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

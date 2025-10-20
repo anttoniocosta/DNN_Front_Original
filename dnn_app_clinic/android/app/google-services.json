@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537668806739",
+    "project_id": "dnnclinic",
+    "storage_bucket": "dnnclinic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537668806739:android:7b5b9c147805cf0997fea6",
+        "android_client_info": {
+          "package_name": "br.com.dnn.appclinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSZHGzGh2LB_OE1FbTTr6lz5OP4FUWEM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

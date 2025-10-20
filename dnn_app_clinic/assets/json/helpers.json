@@ -1,0 +1,185 @@
+{
+    "updateAt": "2023-11-15T09:50:26.274-03:00",
+    "count": 2,
+    "data": [
+        {
+            "id": 1,
+            "name": "Cadastro e Login",
+            "title": "Cadastro e Login",
+            "descriptions": "Autenticação Simplificada no \"Doutor Na Net\"",
+            "icon": "nome do icone",
+            "orders": 0,
+            "tags": "home",
+            "childs": [
+                {
+                    "id": 2,
+                    "name": "Como criar uma conta",
+                    "title": "Como criar uma conta",
+                    "descriptions": "Passo 1: Na tela inicial do aplicativo \"Doutor Na Net\", localize e clique no tile \"Registrar\".\r\n\r\nPasso 2: Preencha os campos solicitados com suas informações pessoais. Lembre-se de inserir um endereço de e-mail válido e ao qual você tenha acesso, pois será enviado um e-mail de confirmação para este endereço.\r\n\r\nPasso 3: Após preencher todos os campos, clique no botão de confirmar ou enviar (o nome do botão pode variar, mas ele estará visível na parte inferior da tela de cadastro).\r\n\r\nPasso 4: Verifique a caixa de entrada do e-mail que você forneceu durante o registro. Você deverá receber um e-mail de confirmação contendo uma senha temporária.\r\n\r\nPasso 5: Volte ao aplicativo e utilize essa senha temporária juntamente com seu CPF ou CNPJ para fazer login pela primeira vez.\r\n\r\nPasso 6: Após o login inicial com a senha temporária, será solicitado que você crie uma nova senha. Siga as instruções na tela para definir sua senha pessoal.",
+                    "orders": 1,
+                    "tags": "home_one",
+                    "childs": []
+                },
+                {
+                    "id": 4,
+                    "name": "Esqueci minha senha, como recuperá-la?",
+                    "title": "Esqueci minha senha, como recuperá-la?",
+                    "descriptions": "Passo 1: Na tela inicial do aplicativo, clique no tile \"Entrar\".\r\n\r\nPasso 2: Abaixo dos campos de CPF ou CNPJ e senha, clique na opção \"Esqueci minha senha\".\r\n\r\nPasso 3: Insira o e-mail associado à sua conta no campo solicitado e clique em enviar ou confirmar.\r\n\r\nPasso 4: Verifique a caixa de entrada do seu e-mail. Você deverá receber um e-mail com instruções para redefinir sua senha.\r\n\r\nPasso 5: Siga as instruções no e-mail para criar uma nova senha e depois utilize-a para acessar sua conta no aplicativo.",
+                    "orders": 2,
+                    "tags": "home",
+                    "childs": []
+                },
+                {
+                    "id": 13,
+                    "name": "Não estou recebendo o e-mail de confirmação de cadastro. O que devo fazer?",
+                    "title": "Não estou recebendo o e-mail de confirmação de cadastro. O que devo fazer?",
+                    "descriptions": "Passo 1: Verifique a pasta de spam ou lixo eletrônico do seu e-mail. Às vezes, e-mails automáticos podem ser direcionados para essas pastas por engano.\r\n\r\nPasso 2: Certifique-se de que inseriu o endereço de e-mail corretamente durante o cadastro. Se houver qualquer erro, mesmo que mínimo, você não receberá o e-mail.\r\n\r\nPasso 3: Se após 10-15 minutos você ainda não tiver recebido o e-mail, tente reenviar a solicitação de confirmação pelo aplicativo.\r\n\r\nPasso 4: Se ainda estiver enfrentando problemas, clique no tile \"Contato\" na tela inicial e entre em contato com a equipe de suporte do \"Doutor Na Net\" usando as opções fornecidas (whatsapp, e-mail ou telefone).",
+                    "orders": 3,
+                    "tags": "home",
+                    "childs": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Planos e Pagamentos",
+            "title": "Planos e Pagamentos",
+            "descriptions": "Navegando Pelas Opções de Assinatura do \"Doutor Na Net\"",
+            "icon": "credit-card-outline",
+            "orders": 1,
+            "tags": "plans_01",
+            "childs": [
+                {
+                    "id": 20,
+                    "name": "Assinaturas e renovações",
+                    "title": "Assinaturas e renovações",
+                    "descriptions": "Assinaturas e renovações",
+                    "orders": 0,
+                    "tags": "plans_04",
+                    "childs": [
+                        {
+                            "id": 21,
+                            "name": "Como renovar minha assinatura",
+                            "title": "Como renovar minha assinatura",
+                            "descriptions": "Como renovar minha assinatura",
+                            "orders": 0,
+                            "tags": "plans_04",
+                            "childs": []
+                        },
+                        {
+                            "id": 22,
+                            "name": "Como alterar o tipo do meu plano",
+                            "title": "Como alterar o tipo do meu plano",
+                            "descriptions": "Como alterar o tipo do meu plano",
+                            "orders": 0,
+                            "tags": "plans_04",
+                            "childs": []
+                        }
+                    ]
+                },
+                {
+                    "id": 23,
+                    "name": "Cancelamentos e reembolsos",
+                    "title": "Cancelamentos e reembolsos",
+                    "descriptions": "Cancelamentos e reembolsos",
+                    "orders": 0,
+                    "tags": "plans_05",
+                    "childs": [
+                        {
+                            "id": 24,
+                            "name": "Como cancelar minha assinatura",
+                            "title": "Como cancelar minha assinatura",
+                            "descriptions": "Acesse sua conta no \"Doutor Na Net\".\r\nVá até \"Meus Planos\".\r\nClique em \"Solicitar Reembolso\".\r\nSiga os passos indicados e aguarde. Após a solicitação, a equipe \"Doutor Na Net\" realizará uma análise da sua situação. Se estiver de acordo com os critérios de reembolso (cancelamento em até 7 dias e sem consultas realizadas), a equipe entrará em contato para finalizar o processo de cancelamento e reembolso.",
+                            "orders": 0,
+                            "tags": "plans_05",
+                            "childs": []
+                        },
+                        {
+                            "id": 25,
+                            "name": "Qual a política de reembolso",
+                            "title": "Qual a política de reembolso",
+                            "descriptions": "O reembolso é permitido se o cancelamento da assinatura ocorrer em até 7 dias e desde que nenhum serviço tenha sido utilizado.\r\nPara cancelamentos com pagamento via cartão de crédito, a operadora do cartão pode levar até 30 dias para refletir o estorno na fatura.",
+                            "orders": 0,
+                            "tags": "plans_04",
+                            "childs": []
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Tipos de planos",
+                    "title": "Tipos de planos",
+                    "descriptions": "Tipos de planos",
+                    "orders": 2,
+                    "tags": "plans_02",
+                    "childs": [
+                        {
+                            "id": 6,
+                            "name": "Plano mensal",
+                            "title": "Plano mensal",
+                            "descriptions": "Cobrança realizada a cada mês. Acesso a todos os serviços do \"Doutor Na Net\" durante esse período.",
+                            "orders": 0,
+                            "tags": "plans_02_1",
+                            "childs": []
+                        },
+                        {
+                            "id": 14,
+                            "name": "Plano semestral",
+                            "title": "Plano semestral",
+                            "descriptions": "Cobrança realizada a cada seis meses. Pode oferecer vantagens adicionais ou descontos em comparação ao plano mensal.",
+                            "orders": 0,
+                            "tags": "plans_02_2",
+                            "childs": []
+                        },
+                        {
+                            "id": 15,
+                            "name": "Plano anual",
+                            "title": "Plano anual",
+                            "descriptions": "Cobrança única para o ano inteiro. Geralmente vem com benefícios adicionais e maior economia em comparação aos planos mensal e semestral.",
+                            "orders": 3,
+                            "tags": "plans_02_3",
+                            "childs": []
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "name": "Formas de pagamento",
+                    "title": "Formas de pagamento",
+                    "descriptions": "Formas de pagamento",
+                    "orders": 2,
+                    "tags": "plans_03_",
+                    "childs": [
+                        {
+                            "id": 17,
+                            "name": "Como pagar com cartão de crédito",
+                            "title": "Como pagar com cartão de crédito",
+                            "descriptions": "Ao finalizar a escolha do seu plano, selecione \"Cartão de Crédito\" como forma de pagamento.\r\nInsira os dados do seu cartão, incluindo número, validade e código de segurança.\r\nConfirme o pagamento e aguarde a confirmação.",
+                            "orders": 0,
+                            "tags": "plans_03_1",
+                            "childs": []
+                        },
+                        {
+                            "id": 18,
+                            "name": "Como pagar com PIX",
+                            "title": "Como pagar com PIX",
+                            "descriptions": "Escolha \"Pix\" como método de pagamento ao finalizar a escolha do plano.\r\nSerá gerado um QR Code ou um código Pix. Use o app do seu banco para escanear o QR Code ou inserir o código.\r\nConfirme o pagamento no app do seu banco.",
+                            "orders": 0,
+                            "tags": "plans_03_2",
+                            "childs": []
+                        },
+                        {
+                            "id": 19,
+                            "name": "Como pagar com boleto",
+                            "title": "Como pagar com boleto",
+                            "descriptions": "Ao finalizar a escolha do plano, selecione \"Boleto\" como forma de pagamento.\r\nUm boleto será gerado. Você pode optar por imprimir ou pagar online usando o código de barras.\r\nRealize o pagamento do boleto em seu banco ou lotérica. O acesso ao plano será liberado após a confirmação do pagamento.",
+                            "orders": 0,
+                            "tags": "plans_03_2",
+                            "childs": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
